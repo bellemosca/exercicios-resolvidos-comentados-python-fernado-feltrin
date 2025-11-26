@@ -31,7 +31,10 @@ O repositório está organizado em arquivos individuais, cada um contendo exerc�
 - **exercicio_28.py** - Loops e iterações
 - **exercicio_29.py** - Estruturas de repetição
 - **exercicio_30.py** - Contagem e números pares
-- **exercicio_31.py** - Loops avançados
+- **exercicio_31.py** - Progressão aritmética (PA) com loops
+- **exercicio_32.py** - Tabuada de multiplicação com entrada do usuário
+- **exercicio_33.py** - Contagem regressiva de 20 segundos usando `time.sleep()`
+- **exercicio_34.py** - Contagem de números ímpares de 1 a 100 com soma total
 
 ## 🎯 Objetivos
 
